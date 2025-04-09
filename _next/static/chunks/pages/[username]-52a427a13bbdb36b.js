@@ -2978,7 +2978,7 @@
                     ],
                   }),
                 });
-              case "Owner":
+              case "DoodhWala":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -3020,7 +3020,7 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Owner",
+                          children: "DoodhWala",
                         }),
                       }),
                     ],
@@ -3191,7 +3191,7 @@
                     ],
                   }),
                 });
-              case "Featured":
+              case "Skibidi":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -3236,7 +3236,7 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Featured",
+                          children: "Skibidi",
                         }),
                       }),
                     ],
@@ -3296,7 +3296,7 @@
                     ],
                   }),
                 });
-              case "Gay":
+              case "Sigma":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -3338,7 +3338,7 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Gay",
+                          children: "Sigma",
                         }),
                       }),
                     ],
@@ -3923,7 +3923,7 @@
                           }),
                         ],
                       });
-                    case "Partnered Server Owner":
+                    case "Partnered Server DoodhWala":
                       return (0, r.jsxs)("div", {
                         className:
                           "group flex flex-col items-center justify-center transition-all duration-300 ease-linear",
@@ -3958,7 +3958,7 @@
                             children: (0, r.jsx)("span", {
                               style: { color: e.textcolor },
                               className: "font-semibold text-sm",
-                              children: "Partnered Server Owner",
+                              children: "Partnered Server DoodhWala",
                             }),
                           }),
                         ],
@@ -8017,7 +8017,7 @@
                     ],
                   }),
                 });
-              case "Owner":
+              case "DoodhWala":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -8059,7 +8059,7 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Owner",
+                          children: "DoodhWala",
                         }),
                       }),
                     ],
@@ -8284,7 +8284,7 @@
                     ],
                   }),
                 });
-              case "Featured":
+              case "Skibidi":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -8329,13 +8329,13 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Featured",
+                          children: "Skibidi",
                         }),
                       }),
                     ],
                   }),
                 });
-              case "Gay":
+              case "Sigma":
                 return (0, r.jsx)(r.Fragment, {
                   children: (0, r.jsxs)("div", {
                     className:
@@ -8377,7 +8377,7 @@
                         children: (0, r.jsx)("span", {
                           style: { color: e.textcolor },
                           className: "font-semibold text-sm",
-                          children: "Gay",
+                          children: "Sigma",
                         }),
                       }),
                     ],
@@ -8962,7 +8962,7 @@
                           }),
                         ],
                       });
-                    case "Partnered Server Owner":
+                    case "Partnered Server DoodhWala":
                       return (0, r.jsxs)("div", {
                         className:
                           "group flex flex-col items-center justify-center transition-all duration-300 ease-linear",
@@ -8997,7 +8997,7 @@
                             children: (0, r.jsx)("span", {
                               style: { color: e.textcolor },
                               className: "font-semibold text-sm",
-                              children: "Partnered Server Owner",
+                              children: "Partnered Server DoodhWala",
                             }),
                           }),
                         ],
